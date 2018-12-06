@@ -29,6 +29,8 @@ Some of the fonts that I suggest would best fit for headings and titles.
 8. [Proxima Nova](https://www.myfonts.com/fonts/marksimonson/proxima-nova/webfont_preview.html)
 9. [Raleway](https://fonts.google.com/specimen/Raleway)
 10. [Josefin Sans](https://www.fontsquirrel.com/fonts/josefin-sans)
+11. [Bebas Neue](https://www.fontsquirrel.com/fonts/bebas-neue)
+12. [Fira Sans](https://fonts.google.com/specimen/Fira+Sans)
 
 # Content/Subject Fonts
 These are fonts would best suit for content of the document.
@@ -42,3 +44,4 @@ These are fonts would best suit for content of the document.
 7. [Corbel](https://www.myfonts.com/fonts/ascender/corbel/)
 8. [FF Tisa](https://www.myfonts.com/fonts/fontfont/tisa/)
 9. [Avenir](https://www.myfonts.com/fonts/linotype/avenir/)
+10. [SourceSansPro](https://www.fontsquirrel.com/fonts/source-sans-pro)
